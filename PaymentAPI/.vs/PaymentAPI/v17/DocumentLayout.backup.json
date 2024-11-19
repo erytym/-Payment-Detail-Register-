@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erytym\\source\\repos\\CrudWithAngular\\PaymentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7551FE0D-0305-46B6-9A70-AAE887BB20AE}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\erytym\\source\\repos\\crudwithangular\\paymentapi\\paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7551FE0D-0305-46B6-9A70-AAE887BB20AE}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7551FE0D-0305-46B6-9A70-AAE887BB20AE}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\erytym\\source\\repos\\crudwithangular\\paymentapi\\paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7551FE0D-0305-46B6-9A70-AAE887BB20AE}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7551FE0D-0305-46B6-9A70-AAE887BB20AE}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\erytym\\source\\repos\\crudwithangular\\paymentapi\\paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7551FE0D-0305-46B6-9A70-AAE887BB20AE}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7551FE0D-0305-46B6-9A70-AAE887BB20AE}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\erytym\\source\\repos\\crudwithangular\\paymentapi\\paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7551FE0D-0305-46B6-9A70-AAE887BB20AE}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7551FE0D-0305-46B6-9A70-AAE887BB20AE}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\erytym\\source\\repos\\crudwithangular\\paymentapi\\paymentapi\\migrations\\20241119045448_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7551FE0D-0305-46B6-9A70-AAE887BB20AE}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\migrations\\20241119045448_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7551FE0D-0305-46B6-9A70-AAE887BB20AE}|PaymentAPI\\PaymentAPI.csproj|c:\\users\\erytym\\source\\repos\\crudwithangular\\paymentapi\\paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7551FE0D-0305-46B6-9A70-AAE887BB20AE}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\source\\repos\\CrudWithAngular\\PaymentAPI\\PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "ToolTip": "C:\\Users\\erytym\\source\\repos\\CrudWithAngular\\PaymentAPI\\PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:58:15.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241119045448_First Migration.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\source\\repos\\CrudWithAngular\\PaymentAPI\\PaymentAPI\\Migrations\\20241119045448_First Migration.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Migrations\\20241119045448_First Migration.cs",
+              "ToolTip": "C:\\Users\\erytym\\source\\repos\\CrudWithAngular\\PaymentAPI\\PaymentAPI\\Migrations\\20241119045448_First Migration.cs",
+              "RelativeToolTip": "PaymentAPI\\Migrations\\20241119045448_First Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:54:48.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erytym\\source\\repos\\CrudWithAngular\\PaymentAPI\\PaymentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PaymentAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\erytym\\source\\repos\\CrudWithAngular\\PaymentAPI\\PaymentAPI\\appsettings.json",
+              "RelativeToolTip": "PaymentAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T04:51:19.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\source\\repos\\CrudWithAngular\\PaymentAPI\\PaymentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\erytym\\source\\repos\\CrudWithAngular\\PaymentAPI\\PaymentAPI\\Program.cs",
+              "RelativeToolTip": "PaymentAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:50:38.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentDetailContext.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\source\\repos\\CrudWithAngular\\PaymentAPI\\PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "ToolTip": "C:\\Users\\erytym\\source\\repos\\CrudWithAngular\\PaymentAPI\\PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "RelativeToolTip": "PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:46:09.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\source\\repos\\CrudWithAngular\\PaymentAPI\\PaymentAPI\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Models\\PaymentDetail.cs",
+              "ToolTip": "C:\\Users\\erytym\\source\\repos\\CrudWithAngular\\PaymentAPI\\PaymentAPI\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "PaymentAPI\\Models\\PaymentDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:41:04.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
